@@ -5,12 +5,10 @@
 ### App Description
     This is my prework for the Intro to Mobile App Development CodePath course. 
     It consists of a button and a label. The button says "Change text color" and
-    clicking it changes the color of the label.
+    clicking it changes the color of the text in the label.
 
 ### App Walk-though
 <img src="http://g.recordit.co/3VaXWeks9Y.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
